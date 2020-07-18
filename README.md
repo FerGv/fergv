@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate developer from Mexico 🇲🇽. I ❤️ web technologies 💻</h3>
-- 👨‍💻 My website [fergv.com](https://fergv.com)
+
+- 👦💻 My website: [fergv.com](https://fergv.com)
 
 - 💬 Ask me about **Python, Django, Vue, Laravel, HTML, CSS, JS**
 
