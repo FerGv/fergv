@@ -8,6 +8,8 @@
 
 - 👦💻 My website: [fergv.com](https://fergv.com)
 
+- 👦💻 My blog: [fergv.com/my-blog](https://fergv.com/my-blog)
+
 - 💬 Ask me about **Python, Django, Vue, Laravel, HTML, CSS, JS**
 
 - 📫 How to reach me: **jfer.garciav@gmail.com**
