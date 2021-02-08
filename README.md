@@ -8,7 +8,7 @@
 
 - 👦💻 My website: [fergv.com](https://fergv.com)
 
-- 👦💻 My blog: [fergv.com/my-blog](https://fergv.com/my-blog)
+- 👦💻 My blog: [blog.fergv.com](https://blog.fergv.com)
 
 - 💬 Ask me about **Python, Django, Vue, Laravel, HTML, CSS, JS**
 
