@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **jfer.garciav@gmail.com**
 
-<p align="left">
+<p align="center">
   <img
     src="./icons/javascript.svg"
     alt="javascript"
